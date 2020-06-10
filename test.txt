@@ -1,3 +1,7 @@
 hello
 world
+<<<<<<< HEAD
 update version_4
+=======
+update version_2
+>>>>>>> 80fa68fe69274a3a85994d3865cf5e4256b1fb8b
